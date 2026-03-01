@@ -60,3 +60,5 @@
     - Standardize heterogeneous schemas
     - Normalize cross-chain metrics
     - Enable multi-source interoperability
+
+  <!-- Updated: 2026-03-01 -->

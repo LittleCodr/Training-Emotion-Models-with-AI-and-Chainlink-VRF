@@ -21,3 +21,5 @@ async def get_current_address(authorization: HTTPAuthorizationCredentials = Depe
         raise credentials_exception
     return eth_address.lower()
 
+# Updated: 2026-03-01
+

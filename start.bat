@@ -49,3 +49,5 @@ if "%1%"=="init" (
     echo Launch main.py ...
     python main.py %1 %2 %3 %4 %5 %6
 )
+
+REM Updated: 2026-03-01

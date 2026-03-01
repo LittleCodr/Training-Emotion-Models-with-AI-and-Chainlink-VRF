@@ -298,6 +298,8 @@ async def ai_chat_history(address: Dict = Depends(get_current_address), cursor=D
 
 # --------------------------------------------------------------------------------------------------
 
+
+# Updated: 2026-03-01
 @router.get("/list")
 async def ai_list(address: Dict = Depends(get_current_address), cursorSlave=Depends(get_db_slave)):
     """7 days of deep training data"""
